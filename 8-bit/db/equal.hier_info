@@ -1,0 +1,20 @@
+|equal
+i0[0] => Equal0.IN7
+i0[1] => Equal0.IN6
+i0[2] => Equal0.IN5
+i0[3] => Equal0.IN4
+i0[4] => Equal0.IN3
+i0[5] => Equal0.IN2
+i0[6] => Equal0.IN1
+i0[7] => Equal0.IN0
+i1[0] => Equal0.IN15
+i1[1] => Equal0.IN14
+i1[2] => Equal0.IN13
+i1[3] => Equal0.IN12
+i1[4] => Equal0.IN11
+i1[5] => Equal0.IN10
+i1[6] => Equal0.IN9
+i1[7] => Equal0.IN8
+eq <= Equal0.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/17.0
+Eequal
+Z0 w1506901734
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_CSC343_Comparator_fall2017/1-bit
+Z4 8C:\Users\Amr\OneDrive\School\8. Fall 2017\CSc 343 - Computer Organization\HAMMAM_CSC343_Comparator_fall2017\1-bit\1-bit.vhd
+Z5 FC:\Users\Amr\OneDrive\School\8. Fall 2017\CSc 343 - Computer Organization\HAMMAM_CSC343_Comparator_fall2017\1-bit\1-bit.vhd
+l0
+L4
+VT>2cN3AlScC]^:=Vj@V@a1
+!s100 OnbgoOPPYSa5TN?RZNgh?0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1507077915
+!i10b 1
+Z8 !s108 1507077914.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Amr\OneDrive\School\8. Fall 2017\CSc 343 - Computer Organization\HAMMAM_CSC343_Comparator_fall2017\1-bit\1-bit.vhd|
+Z10 !s107 C:\Users\Amr\OneDrive\School\8. Fall 2017\CSc 343 - Computer Organization\HAMMAM_CSC343_Comparator_fall2017\1-bit\1-bit.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+DEx4 work 5 equal 0 22 T>2cN3AlScC]^:=Vj@V@a1
+l14
+L12
+Vk=5g1RXEb4>2VblcjeWJA1
+!s100 N4aDlUAQZh`c=^XjV^74U0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etest_equal
+Z13 w1506927423
+R1
+R2
+R3
+Z14 8C:\Users\Amr\OneDrive\School\8. Fall 2017\CSc 343 - Computer Organization\HAMMAM_CSC343_Comparator_fall2017\1-bit\test_equal.vhd
+Z15 FC:\Users\Amr\OneDrive\School\8. Fall 2017\CSc 343 - Computer Organization\HAMMAM_CSC343_Comparator_fall2017\1-bit\test_equal.vhd
+l0
+L4
+V86AGF2ClO[[]G@9RReJ;W3
+!s100 ZXk;MmGa870S2U2B9=;3G0
+R6
+32
+R7
+!i10b 1
+Z16 !s108 1507077915.000000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Amr\OneDrive\School\8. Fall 2017\CSc 343 - Computer Organization\HAMMAM_CSC343_Comparator_fall2017\1-bit\test_equal.vhd|
+Z18 !s107 C:\Users\Amr\OneDrive\School\8. Fall 2017\CSc 343 - Computer Organization\HAMMAM_CSC343_Comparator_fall2017\1-bit\test_equal.vhd|
+!i113 1
+R11
+R12
+Aarch_test
+R1
+R2
+Z19 DEx4 work 10 test_equal 0 22 86AGF2ClO[[]G@9RReJ;W3
+l15
+L7
+Z20 V6QPN3o9>2DQBj:28^Th1m3
+Z21 !s100 D22K:k62SLE9O0L3I>el[0
+R6
+32
+R7
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R11
+R12

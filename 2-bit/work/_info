@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/Lab 2 - Adder (2)
+Eequal
+Z0 w1507071860
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_CSC343_Comparator_fall2017/2-bit
+Z4 8C:\Users\Amr\OneDrive\School\8. Fall 2017\CSc 343 - Computer Organization\HAMMAM_CSC343_Comparator_fall2017\2-bit\2-bit.vhd
+Z5 FC:\Users\Amr\OneDrive\School\8. Fall 2017\CSc 343 - Computer Organization\HAMMAM_CSC343_Comparator_fall2017\2-bit\2-bit.vhd
+l0
+L4
+VNDa]L?UK`cckc0Je4d@<<2
+!s100 [[F=ZXl2[iLY?k`ad7;BE1
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1507077980
+!i10b 1
+Z8 !s108 1507077980.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Amr\OneDrive\School\8. Fall 2017\CSc 343 - Computer Organization\HAMMAM_CSC343_Comparator_fall2017\2-bit\2-bit.vhd|
+Z10 !s107 C:\Users\Amr\OneDrive\School\8. Fall 2017\CSc 343 - Computer Organization\HAMMAM_CSC343_Comparator_fall2017\2-bit\2-bit.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+DEx4 work 5 equal 0 22 NDa]L?UK`cckc0Je4d@<<2
+l14
+L12
+VTdK:@>Ik5OHDzHe:4`jam0
+!s100 OTCSYl7`7fKPRaAR>3f4Q1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etest_equal
+Z13 w1507071952
+R1
+R2
+R3
+Z14 8C:\Users\Amr\OneDrive\School\8. Fall 2017\CSc 343 - Computer Organization\HAMMAM_CSC343_Comparator_fall2017\2-bit\test_equal.vhd
+Z15 FC:\Users\Amr\OneDrive\School\8. Fall 2017\CSc 343 - Computer Organization\HAMMAM_CSC343_Comparator_fall2017\2-bit\test_equal.vhd
+l0
+L4
+V86AGF2ClO[[]G@9RReJ;W3
+!s100 ZXk;MmGa870S2U2B9=;3G0
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Amr\OneDrive\School\8. Fall 2017\CSc 343 - Computer Organization\HAMMAM_CSC343_Comparator_fall2017\2-bit\test_equal.vhd|
+Z17 !s107 C:\Users\Amr\OneDrive\School\8. Fall 2017\CSc 343 - Computer Organization\HAMMAM_CSC343_Comparator_fall2017\2-bit\test_equal.vhd|
+!i113 1
+R11
+R12
+Aarch_test
+R1
+R2
+Z18 DEx4 work 10 test_equal 0 22 86AGF2ClO[[]G@9RReJ;W3
+l17
+L7
+Z19 VU>m0oQdZVo;Um@9ePc=Q80
+Z20 !s100 0GoPIdm^hP@X]`CjB7@mL0
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
